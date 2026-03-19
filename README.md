@@ -1,4 +1,4 @@
-***Dice Game***
+## Dice Game
 
 This is a simple dice game I built while learning DOM manipulation in JavaScript.
 
