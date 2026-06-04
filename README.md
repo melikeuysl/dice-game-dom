@@ -14,28 +14,13 @@ A simple, fun, web-based two-player dice game. Just refresh the page to roll the
 * **CSS3:** Styling, layout positioning with flexbox/margins, custom Google Fonts (Lobster and Indie Flower), and color themes.
 * **Vanilla JavaScript:** Math logic (`Math.random()`), conditional rendering (`if/else`), and DOM element targeting (`querySelector`, `setAttribute`).
 
-## 📂 Folder Structure
 
-To ensure the images load correctly, your project directory should look like this:
-
-```text
-├── index.html
-├── styles.css
-├── index.js
-└── images/
-    ├── dice1.png
-    ├── dice2.png
-    ├── dice3.png
-    ├── dice4.png
-    ├── dice5.png
-    └── dice6.png
-```
 
 ## ⚙️ How to Run
 
 1. Clone this repository: 
    `git clone https://github.com/melikeuysl/dice-game-dom.git`
 2. Open the cloned folder.
-3. Simply double-click the `index.html` file to open it in your web browser.
+3. Simply double-click the `dicee.html` file to open it in your web browser.
 4. Refresh the page (F5 or Cmd+R) to roll the dice again!
 
