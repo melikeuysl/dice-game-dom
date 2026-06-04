@@ -24,3 +24,4 @@ A simple, fun, web-based two-player dice game. Just refresh the page to roll the
 3. Simply double-click the `dicee.html` file to open it in your web browser.
 4. Refresh the page (F5 or Cmd+R) to roll the dice again!
 
+[live demo](https://melikeuysl.github.io/dice-game-dom/)
